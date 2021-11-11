@@ -1,0 +1,21 @@
+{
+	"name": "@vivi-project/gulp-task",
+	"version": "1.0.8",
+	"description": "VIVI Project",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"homepage": "https://github.com/ViviIntelli/gulp-task",
+	"keywords": [
+		"gulp",
+		"tools",
+		"vivi-project"
+	],
+	"author": "Ruslan Radionov<cugune.tyan@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"@types/vinyl-fs": "^2.4.12",
+		"vinyl-fs": "^3.0.3"
+	}
+}
