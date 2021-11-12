@@ -1,7 +1,7 @@
 {
 	"name": "@vivi-project/gulp-task",
 	"version": "1.0.8",
-	"description": "VIVI Project",
+	"description": "VIVI Project:// Assistant in the organization of tasks",
 	"main": "index.js",
 	"scripts": {
 		"build": "tsc"
